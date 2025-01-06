@@ -55,7 +55,7 @@
         <SwashbuckleAspNetCoreAnnotationsVersion>5.5.1</SwashbuckleAspNetCoreAnnotationsVersion>
         <SwashbuckleAspNetCoreFiltersVersion>5.1.2</SwashbuckleAspNetCoreFiltersVersion>
         <SwashbuckleAspNetCoreSwaggerGenVersion>5.5.1</SwashbuckleAspNetCoreSwaggerGenVersion>
-        <SwashbuckleAspNetCoreSwaggerUIVersion>5.5.1</SwashbuckleAspNetCoreSwaggerUIVersion>
+        <SwashbuckleAspNetCoreSwaggerUIVersion>7.2.0</SwashbuckleAspNetCoreSwaggerUIVersion>
         <SwashbuckleAspNetCoreSwaggerVersion>5.5.1</SwashbuckleAspNetCoreSwaggerVersion>
         <XunitRunnerVisualstudioVersion>2.4.2</XunitRunnerVisualstudioVersion>
         <XunitVersion>2.7.0</XunitVersion>
