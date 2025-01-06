@@ -51,7 +51,7 @@
         <NewtonsoftJsonVersion>13.0.1</NewtonsoftJsonVersion>
         <NLogConfigVersion>4.7.2</NLogConfigVersion>
         <PollyVersion>8.5.0</PollyVersion>
-        <StatelessVersion>5.1.2</StatelessVersion>
+        <StatelessVersion>5.17.0</StatelessVersion>
         <SwashbuckleAspNetCoreAnnotationsVersion>5.5.1</SwashbuckleAspNetCoreAnnotationsVersion>
         <SwashbuckleAspNetCoreFiltersVersion>5.1.2</SwashbuckleAspNetCoreFiltersVersion>
         <SwashbuckleAspNetCoreSwaggerGenVersion>5.5.1</SwashbuckleAspNetCoreSwaggerGenVersion>
