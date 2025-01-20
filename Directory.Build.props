@@ -37,7 +37,7 @@
         <SystemTextJsonVersion>4.7.2</SystemTextJsonVersion>
         <AutofacExtensionsDependencyInjectionVersion>6.0.0</AutofacExtensionsDependencyInjectionVersion>
         <DawnGuardVersion>1.12.0</DawnGuardVersion>
-        <FluentAssertionsVersion>5.10.3</FluentAssertionsVersion>
+        <FluentAssertionsVersion>8.0.0</FluentAssertionsVersion>
         <FluentValidationAspNetCoreVersion>9.2.0</FluentValidationAspNetCoreVersion>
         <FluentValidationVersion>9.2.0</FluentValidationVersion>
         <FlurlVersion>2.8.2</FlurlVersion>
