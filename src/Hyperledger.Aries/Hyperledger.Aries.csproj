@@ -20,7 +20,7 @@
         <PackageReference Include="Portable.BouncyCastle" Version="1.9.0" />
         <PackageReference Include="Stateless" Version="$(StatelessVersion)" />
         <PackageReference Include="System.Collections.Immutable" Version="1.7.1" />
-        <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.25.1" />
+        <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.3.0" />
         <PackageReference Include="System.Reactive.Linq" Version="$(SystemReactiveLinqVersion)" />
     </ItemGroup>
     <ItemGroup>
